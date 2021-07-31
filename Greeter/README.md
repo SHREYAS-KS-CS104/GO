@@ -1,3 +1,3 @@
 ## This is the Output 
 ***
-<img src = "./OutPut" label = "Output" >
+<img src = "./OutPut" alt="Figure 1" title="Output"/>
